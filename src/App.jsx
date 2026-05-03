@@ -1,9 +1,8 @@
-import "./main.css"
-import Navbar from "./components/Navbar"
-import Hero from "./components/Hero"
-import Menu from "./components/Menu"
-import MenuItem from "./components/MenuItem"
-import Footer from "./components/Footer"
+import "./main.css";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Menu from "./components/Menu";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -11,10 +10,9 @@ function App() {
       <Navbar />
       <Hero />
       <Menu />
-      <MenuItem />
       <Footer />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;

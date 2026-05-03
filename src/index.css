@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  font-family: 'Georgia', serif;
-  background-color: #F5F0EB;
-  color: #1A1A1A;
+  font-family: "Georgia", serif;
+  background-color: var(--background);
+  color: var(--text);
 }
